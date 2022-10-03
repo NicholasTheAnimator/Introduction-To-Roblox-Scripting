@@ -1,9 +1,0 @@
-script.Parent.Parent.StarterPlayer.CharacterWalkSpeed=50
-wait(1)
-script.Parent.Parent.StarterPlayer.CharacterWalkSpeed=100
-wait(1)
-script.Parent.Parent.StarterPlayer.CharacterWalkSpeed=150
-wait(1)
-script.Parent.Parent.StarterPlayer.CharacterWalkSpeed=200
-wait(0.5)
-print("Woo-hoo! We're walking very fast!")
